@@ -10,7 +10,7 @@ public class MyApp
     {
     	//hello
     	//hi
-        System.out.println( "Hello World! new vfffv text addasded" );
+        System.out.println( "Hello World!" );
 
     }
 }
